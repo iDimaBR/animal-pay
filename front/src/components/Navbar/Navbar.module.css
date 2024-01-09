@@ -1,0 +1,37 @@
+/* styles.module.css */
+
+.navbar {
+    background-color: #ffffff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 1.8rem;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    color: #FFD700;
+  }
+  
+  .navLinks {
+    list-style: none;
+  }
+  
+  .navLinks li {
+    display: inline-block;
+    margin-right: 40px;
+  }
+  
+  .navLinks li a {
+    text-decoration: none;
+    color: #333333;
+    font-size: 1.2rem;
+  }
+  
+  .navLinks li a:hover {
+    color: #FFD700;
+  }
+  

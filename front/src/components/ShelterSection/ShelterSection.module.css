@@ -1,0 +1,67 @@
+.section {
+    margin-bottom: 50px;
+    background-color: #fff;
+  }
+  
+  .sectionTitle {
+    font-weight: bold;
+    font-size: 2.2rem;
+    color: #FFD700; /* cor amarela */
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Estilos para a lista de animais (exemplo) */
+  .shelterList {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  
+  .shelterCard {
+    width: 200px;
+    border: 1px solid #ececec;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #ffffff;
+  }
+
+  .animalCard:hover {
+    box-shadow: 0 0 10px #ccc;
+  }
+  
+  .animalImage {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .animalName {
+    font-weight: bold;
+  }
+
+  .shelterButton {
+    width: 100%;
+    background-color: #DAA520;
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .animalSpecies {
+    color: #FFD700;
+    font-weight: bold;
+  }
+  
+  .shelterName {
+    margin: 5px;
+    margin-bottom: 12px;
+    color: #707070; /* cor cinza */
+  }
+  

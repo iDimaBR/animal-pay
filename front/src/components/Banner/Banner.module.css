@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Montserrat:wght@100;400&family=Open+Sans:wght@700&family=Poppins:ital,wght@0,400;1,500&family=Trispace&display=swap');
+
+.banner {
+    background-color: #FFE357; /* cor amarela */
+    color: #fff; /* cor branca */
+    text-align: center;
+    padding: 50px;
+    background-image: url('../../public/banner3.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+  }
+  
+  .bannerTitle {
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .bannerSubtitle {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .bannerButton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #DAA520; /* cor amarela escura */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .bannerButton:hover {
+    background-color: rgb(245, 186, 38); /* cor amarela clara ao passar o mouse */
+  }
+  
