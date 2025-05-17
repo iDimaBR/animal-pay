@@ -14,7 +14,7 @@ A fun and visually engaging payment system featuring animated animal characters.
 
 ## 🚀 Tech Stack
 
-- React + Next.js *(assumed)*
+- Node + Next.JS
 - TailwindCSS for styling and layout
 - Framer Motion for animations
 - Custom SVG assets for visuals
