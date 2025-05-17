@@ -2,7 +2,7 @@
 
 A fun and visually engaging payment system featuring animated animal characters. Designed to make financial transactions simple, intuitive, and delightful for users of all ages.
 
-![Screenshot](https://prnt.sc/VRLO3Q0vr76A)
+![Screenshot](https://img001.prntscr.com/file/img001/02eXrPj-Scu5sE-Dr8deKg.png)
 
 ## ✨ Features
 
